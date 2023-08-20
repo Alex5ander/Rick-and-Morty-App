@@ -6,7 +6,7 @@
 <p align="center">
  <a href="#objetivos">Objetivos</a> •
  <a href="#tecnologias">Tecnologias</a> • 
- <a href="#como-executar-o-projeto">Como executar o projeto</a>
+ <a href="#como-executar-o-projeto">Como executar o projeto</a> • 
  <a href="#aplicativo">Aplicativo</a>
 </p>
 
