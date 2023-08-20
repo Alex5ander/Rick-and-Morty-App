@@ -7,6 +7,7 @@
  <a href="#objetivos">Objetivos</a> •
  <a href="#tecnologias">Tecnologias</a> • 
  <a href="#como-executar-o-projeto">Como executar o projeto</a>
+ <a href="#aplicativo">Aplicativo</a>
 </p>
 
 ### Objetivos
@@ -34,3 +35,9 @@ $ git clone <https://github.com/Alex5ander/Rick-and-Morty-App>
 
 # Clique em Run App para executar o projeto em um emulador configurado ou dispositivo fisico conectado na porta USB
 ```
+
+<h3 id="aplicativo" align="center">Rick and Morty APP</h3>
+
+<div align="center">
+  <img src="preview.gif" width="300" />
+</div>
