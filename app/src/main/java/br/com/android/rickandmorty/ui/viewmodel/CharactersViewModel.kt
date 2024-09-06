@@ -57,6 +57,8 @@ class CharactersViewModel : ViewModel() {
                             error = true
                         )
                     }
+                }catch (e:Exception) {
+                    e.printStackTrace()
                 } finally {
                     _uiState.update { currentState -> currentState.copy(loading = false) }
                 }
